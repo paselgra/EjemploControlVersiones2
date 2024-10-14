@@ -1,0 +1,19 @@
+---
+title: "EjemploRMarkd"
+author: "Pablo Selma Gracia"
+date: "2024-10-14"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# This is the circulus area
+
+```{r}
+r <- 1
+area <- r * pi ** 2
+```
+
