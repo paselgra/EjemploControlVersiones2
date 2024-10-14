@@ -17,3 +17,9 @@ r <- 1
 area <- r * pi ** 2
 ```
 
+# Dis is de cuadradus area
+
+```{r}
+l <- 2
+area_cuadradus <- 4 * l
+```
