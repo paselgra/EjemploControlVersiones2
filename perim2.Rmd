@@ -1,0 +1,28 @@
+---
+title: "perim2"
+author: "Pablo Selma Gracia"
+date: "2024-10-15"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+He realizado pruebas de las diferentes opciones: El orden/nombre de los ficheros puede variar.
+
+
+# Perim trian2
+```{r}
+l <- 2
+perim_triang2 <- l ** 2 / 2
+```
+
+
+# Perim rect2
+```{r}
+l1 <- 2
+l2 <- 7
+perim_rect <- l1 * l2
+```
+
