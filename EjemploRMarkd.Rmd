@@ -17,9 +17,26 @@ r <- 1
 area <- r * pi ** 2
 ```
 
-# Dis is de cuadradus area
+# This is de cuadradus area
 
 ```{r}
 l <- 2
-area_cuadradus <- 4 * l
+area_cuadradus <- l ** 2
 ```
+
+
+# Ar trian
+
+```{r}
+l <- 5
+area_trian <- l ** 2 / 2
+```
+
+# Ar rectan
+
+```{r}
+l1 <- 2
+l2 <- 7
+area_rect <- l1 * l2
+```
+
