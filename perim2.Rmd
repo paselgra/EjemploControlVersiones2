@@ -26,3 +26,4 @@ l2 <- 7
 perim_rect <- l1 * l2
 ```
 
+Ha sucedido el merge
